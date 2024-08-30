@@ -5,7 +5,9 @@ The findings can then be applied to reduce attrition and improve customer retent
 
 A bit of research & a little digging done on the subject of Bank Churn identifying the Churn Rate equation & how banks calculate & categorize the credit scores.
 
-For Data Source click here: [Data Source](/Source_Data/Bank+Customer+Churn.zip/).
+For Data Source click here: [Data Source](/Source_Data/Bank+Customer+Churn.zip/)
+
+For Tableau Public click here: [Tableau Public](https://public.tableau.com/views/BankChurn_17249682380290/BankChurnAnalysisOverview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 # Tools I Used
 
