@@ -16,16 +16,20 @@ For Data Source click here: [Data Source](/Source_Data/Bank+Customer+Churn.zip/)
 ### 1. Churn Count & Rate
 ### 2. Churn Rate by Country
 ### 3. Churned Customers by Activity
-### 4. Churned Customers by Having Credit Card
+### 4. Churned Customers by Having a Credit Card
 ### 5. Churned Customers by Membership Years
 
 ![](Images/1_Bank_Churn_Analysis_Overview.png)
 
 ### 2. Churned_Customers_by_Age
 
+Divided the customer's age to 4 groups (Teen, Adult, Middle Age & Seniors) for a more clear view 
+
 ![](Images/2_Churned_Customers_by_Age.png)
 
 ### 3. Churned_Customers_by_CrScore_&_Salary
+
+Divided the customer's credit score to 5 groups (Poor, Fair, Good, Very Good & Excellent) for a more clear view 
 
 ![](Images/3_Churned_Customers_by_CrScore_&_Salary.png)
 
