@@ -24,13 +24,13 @@ Focusing on the churned customers I made the below
 
 ![](Images/1_Bank_Churn_Analysis_Overview.png)
 
-### 2. Churned Customers by Age
+### 6. Churned Customers by Age
 
 Divided the customer's age to 4 groups (Teen, Adult, Middle Age & Seniors) for a clearer view.
 
 ![](Images/2_Churned_Customers_by_Age.png)
 
-### 3. Churned Customers by Score & Avg. Salary
+### 7. Churned Customers by Score & Avg. Salary
 
 Divided the customer's credit score to 5 groups (Poor, Fair, Good, Very Good & Excellent) for a clearer view.
 
@@ -46,10 +46,10 @@ Divided the customer's credit score to 5 groups (Poor, Fair, Good, Very Good & E
 #### 6. Customers credit score "Fair" & "Poor" are the highest of churned customers by 37% & 32%.
 #### 7. Remarkably the avg. salary tends to reverse with credit score ranges (Poor credit score range have the highest avg. salary)
 
-# Recommendation
+# Recommendations
 
 #### 1. Need to dig deeper into why the highest churn rate at Germany & France.
 #### 2. Figuring a way of keeping track of the inactive customers to involve them more in the Bank's products & services.
-#### 3. Making a survey for the churned customers who owned a credit card to see if there is any downsides from this service.
-#### 4. Although the years doesn't impact much but need to reach those who have long membership years & high relatively churned rate like the 10% for the 9 years membership to asses their reason of leaving.
+#### 3. Making a survey for the churned customers who owned a credit card to see if there are any downsides from this service.
+#### 4. Although the years doesn't impact much but need to reach those who have long membership years & high relatively churned rate like the 10% for the 9 years membership to assess their reason of leaving.
 #### 5. Provide a retention plans specially for the age group from 40 to 59 & the "Fair" & "Poor" score ranges.
