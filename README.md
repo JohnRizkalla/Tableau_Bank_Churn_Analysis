@@ -23,13 +23,13 @@ For Tableau Public click here: [Tableau Public](https://public.tableau.com/views
 
 ![](Images/1_Bank_Churn_Analysis_Overview.png)
 
-### 2. Churned_Customers_by_Age
+### 2. Churned Customers by Age
 
 Divided the customer's age to 4 groups (Teen, Adult, Middle Age & Seniors) for a clearer view.
 
 ![](Images/2_Churned_Customers_by_Age.png)
 
-### 3. Churned_Customers_by_CrScore_&_Salary
+### 3. Churned Customers by CrScore & Salary
 
 Divided the customer's credit score to 5 groups (Poor, Fair, Good, Very Good & Excellent) for a clearer view.
 
