@@ -3,7 +3,7 @@
 Analyzing the behavior of customers who have left the bank to identify patterns and reasons for their departure.
 The findings can then be applied to reduce attrition and improve customer retention in the future.
 
-I am not in Banks field so I did a bit of a research & little digging on the subject of Bank Churn identifying the Churn Rate equation & how banks calculate & categorize the credit scores.
+I am not in Banks field so I did a bit of a research & little digging on the subject of Bank Churn to identify the Churn Rate equation & how Banks calculate & categorize the credit scores.
 
 For Data Source click here: [Data Source](/Source_Data/Bank+Customer+Churn.zip/)
 
@@ -15,6 +15,7 @@ For Tableau Public click here: [Tableau Public](https://public.tableau.com/views
 
 # The Analysis
 
+Focusing on the churned customers I made the below
 ### 1. Churn Count & Rate.
 ### 2. Churned Customers by Country.
 ### 3. Churned Customers by Activity.
@@ -29,7 +30,7 @@ Divided the customer's age to 4 groups (Teen, Adult, Middle Age & Seniors) for a
 
 ![](Images/2_Churned_Customers_by_Age.png)
 
-### 3. Churned Customers by CrScore & Salary
+### 3. Churned Customers by Score & Avg. Salary
 
 Divided the customer's credit score to 5 groups (Poor, Fair, Good, Very Good & Excellent) for a clearer view.
 
@@ -48,7 +49,7 @@ Divided the customer's credit score to 5 groups (Poor, Fair, Good, Very Good & E
 # Recommendation
 
 #### 1. Need to dig deeper into why the highest churn rate at Germany & France.
-#### 2. Figuring a way of process to keep tracking of the inactive customers to involve them more in the Bank's products & services.
+#### 2. Figuring a way of keeping track of the inactive customers to involve them more in the Bank's products & services.
 #### 3. Making a survey for the churned customers who owned a credit card to see if there is any downsides from this service.
-#### 4. Although the years doesn't impact much but need to reach those who have long membership years & high relatively churned rate like the 10% for the 9 years membership.
+#### 4. Although the years doesn't impact much but need to reach those who have long membership years & high relatively churned rate like the 10% for the 9 years membership to asses their reason of leaving.
 #### 5. Provide a retention plans specially for the age group from 40 to 59 & the "Fair" & "Poor" score ranges.
