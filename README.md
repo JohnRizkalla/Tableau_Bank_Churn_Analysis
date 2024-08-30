@@ -1,6 +1,9 @@
 # Overview
 
-Bank Churn Analysis
+Analyzing the behavior of customers who have left a bank to identify patterns and reasons for their departure.
+The findings can then be applied to reduce attrition and improve customer retention in the future.
+
+A bit of research & a little digging done on the subject of Bank Churn identifying the Churn Rate equation & how banks calculate & categorize the credit scores.
 
 For Data Source click here: [Data Source](/Source_Data/Bank+Customer+Churn.zip/).
 
