@@ -10,7 +10,11 @@ For Data Source click here: [Data Source](/Source_Data/Bank+Customer+Churn.zip/)
 
 # The Analysis
 
-### 1. Bank_Churn_Analysis_Overview
+### 1. Churn Count & Rate
+### 2. Churn Rate by Country
+### 3. Churned Customers by Activity
+### 4. Churned Customers by Having Credit Card
+### 5. Churned Customers by Membership Years
 
 ![](Images/1_Bank_Churn_Analysis_Overview.png)
 
